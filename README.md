@@ -26,8 +26,8 @@ This is a qr-code-component
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://127.0.0.1:5500/qr-code-component-main/)
-- Live Site URL: [Add live site URL here](http://127.0.0.1:5500/qr-code-component-main/)
+- Solution URL: [Add solution URL here](https://github.com/MondalAmrit/Frontend-Projects.git)
+- Live Site URL: [Add live site URL here](https://mondalamrit.github.io/Frontend-Projects/)
 
 ## My process
 
@@ -41,8 +41,8 @@ This is a qr-code-component
 
 ### What I learned
 
--Transform property
--Adding custom fonts
+- Transform property
+- Adding custom fonts
 
 ```css
 .center {
