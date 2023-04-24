@@ -41,8 +41,8 @@ This is a qr-code-component
 
 ### What I learned
 
--Transform property
--Adding custom fonts
+- Transform property
+- Adding custom fonts
 
 ```css
 .center {
